@@ -1,2 +1,2 @@
-# cal
+# calculator
 simple way understand
